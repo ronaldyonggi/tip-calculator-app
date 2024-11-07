@@ -1,0 +1,7 @@
+@import './fonts.css';
+@import './variables.css';
+
+body {
+  font-family: var(--font-family);
+  font-size: var(--font-size-input);
+}
